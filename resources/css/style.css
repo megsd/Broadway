@@ -3,6 +3,10 @@ body {
   font-family: Helvetica;
 }
 
+a {
+  color: white;
+}
+
 h1  {
   font-size: 70px;
   font-weight: bold;
@@ -40,4 +44,5 @@ p {
   font-size: 11px;
   background-color: dimgray;
   color: white;
+  text-align: left;
 }
